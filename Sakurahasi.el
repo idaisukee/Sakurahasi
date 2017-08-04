@@ -20,7 +20,8 @@
         (text-scale-increase 0)
         (text-scale-increase Sakurahasi-size)
         (other-window 1)
-        (switch-to-buffer origin-buffer)))
+        (switch-to-buffer origin-buffer)
+        (keyboard-quit)))
 
 (provide 'Sakurahasi)
 
